@@ -1,0 +1,32 @@
+_repo: Behind-the-scenes-in-Peking-b-Being-experiences-during-the-siege-of-the-Legations_72542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hooker, Mary
+    alias: Smith, Polly Condit
+    gutenberg_agent_id: '56702'
+    url: http://www.gutenberg.org/2009/agents/56702
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72542'
+language: en
+pgterms:marc904: https://archive.org/details/behindscenesinpe00hook/page/n9/mode/2up
+pgterms:marc905: 20200730144459hooker
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bJohn Murray, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beijing (China) -- History -- Siege, 1900'
+- !lcc 'DS'
+- GITenberg
+title: 'Behind the scenes in Peking : $b Being experiences during the siege of the
+  Legations'
+url: http://www.gutenberg.org/ebooks/72542
