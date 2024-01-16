@@ -1,5 +1,8 @@
 _repo: Behind-the-scenes-in-Peking-b-Being-experiences-during-the-siege-of-the-Legations_72542
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72542-h/images/cover.jpg
 creator:
   author:
     agent_name: Hooker, Mary
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56702'
     url: http://www.gutenberg.org/2009/agents/56702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72542#Behind-the-scenes-in-Peking-b-Being-experiences-during-the-siege-of-the-Legations
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
